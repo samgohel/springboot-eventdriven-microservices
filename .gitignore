@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.editorconfig  
+.factorypath  
+.gitattributes
+.settings/
+bin/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.mvn/
